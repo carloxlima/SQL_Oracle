@@ -1,0 +1,15 @@
+
+
+	História do SQL
+
+ - O primeiro são os DDLs, que vem de linguagem de definição de dados. É a parte que permite a manipulação das estruturas de dados. Criar banco, tabelas, alterar índices, todos os comandos que mexem com a estrutura são do tipo DDL.
+
+ - A segunda linha chamamos de DML. É um grupo de comandos que tem como objetivo gerenciar os dados, incluir, alterar, excluir informações que estão dentro das estruturas, como as tabelas. Tirar informações das estruturas e exibir para os usuários.
+
+ - Também temos o DCL, que é um grupo de comandos que nos permite administrar o banco de dados. Mas não sua estrutura. A administração, gerenciar usuários, como ele vai ser armazenado, etc.
+ 
+ 
+  
+  ------------
+  
+ - SYS, SYSTEM e PDBADMIN. Estes são os três usuários administradores do ambiente. Serão estes usuários que você utilizará durante as aulas.
